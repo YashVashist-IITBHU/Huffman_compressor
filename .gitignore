@@ -1,0 +1,5 @@
+bin/
+build/
+samples/
+*.huf
+*.o
